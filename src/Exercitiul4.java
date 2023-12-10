@@ -1,5 +1,8 @@
+/*
+Folosind streamuri primitive, să se calculeze media primelor 100 numere naturale.
+*/
+
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class Exercitiul4 {
     public static void main(String[] args) {

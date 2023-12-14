@@ -12,5 +12,6 @@ public class Exercitiul8 {
         String name = bufferedReader.readLine();
         System.out.println("Salut, " + name + " !");
 
+
     }
 }

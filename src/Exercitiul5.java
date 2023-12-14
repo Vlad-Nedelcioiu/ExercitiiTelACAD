@@ -1,3 +1,4 @@
+//Suma numerelor din stream
 import java.util.stream.Stream;
 
 public class Exercitiul5 {

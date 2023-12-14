@@ -31,5 +31,6 @@ public class Exercitiul6 {
 
         System.out.println(atomicInteger.get());
 
+
     }
 }

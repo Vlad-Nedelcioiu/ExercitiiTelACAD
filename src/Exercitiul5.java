@@ -6,5 +6,6 @@ public class Exercitiul5 {
         int sum = stringStream.mapToInt(num -> Integer.parseInt(num)).sum();
                             //.mapToInt(Integer::parseInt).sum();
         System.out.println(sum);
+
     }
 }

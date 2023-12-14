@@ -3,7 +3,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class Exemplul6 {
+public class Exercitiul6 {
     public static void main(String[] args) {
 
         AtomicInteger atomicInteger = new AtomicInteger();
